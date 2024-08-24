@@ -66,10 +66,10 @@
 <p><a href="https://tablericons.com/" target="_blank" rel="noreferrer">Tabler Icons</a></p>
 <h3>JQuery Quick API Reference</h3>
 <p><a href="https://oscarotero.com/jquery/" target="_blank" rel="noreferrer">JQuery</a></p>
-
+<h3>Images in the cloud</h3>
+<p><a href="https://imgur.com/" target="_blank" rel="noreferrer">Imgur</a></p>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/elenaPoblete">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elenaPoblete&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
