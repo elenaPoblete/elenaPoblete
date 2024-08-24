@@ -4,6 +4,8 @@
 <img src="https://i.imgur.com/HByYetH.jpg">
 
 
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/elenaPoblete)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## About Me
 - ⭐ Github Star ⭐ 
@@ -55,6 +57,16 @@
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="bootstrap" width="40" height="40"/> </a>    </div>                                                                                      
 </td> 
 </table>      
+
+## Suggested Pages
+<h3>Label platform</h3>
+<p><a href="https://shields.io/" target="_blank" rel="noreferrer">Shields</a></p>
+<p><a href="https://badgen.net/" target="_blank" rel="noreferrer">Badgen</a></p>
+<h3>Tabler Icons</h3>
+<p><a href="https://tablericons.com/" target="_blank" rel="noreferrer">Tabler Icons</a></p>
+<h3>JQuery Quick API Reference</h3>
+<p><a href="https://oscarotero.com/jquery/" target="_blank" rel="noreferrer">JQuery</a></p>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
