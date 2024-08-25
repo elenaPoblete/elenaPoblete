@@ -10,7 +10,7 @@
 - ⭐ Github Star ⭐ 
 - 📫 How to reach me **elena.poblete@gmail.com**
 - 🌱 I’m currently learning **Laravel**
-
+- 💬 Web Developer
 
 ## Languages And Tools
 <table>
@@ -73,6 +73,9 @@
 <p><a href="https://imgur.com/" target="_blank">Imgur</a></p>
 <p><a href="https://github.com/jmnote/z-icons" target="_blank">z-icons</a></p>
 <p><a href="https://octodex.github.com/" target="_blank">Octodex</a></p>
+
+<h3>Shipping Service</h3> 
+<p><a href="https://discord.com/" target="_blank">Discord</a></p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
