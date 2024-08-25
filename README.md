@@ -64,10 +64,14 @@
 <p><a href="https://badgen.net/" target="_blank" rel="noreferrer">Badgen</a></p>
 <h3>Tabler Icons</h3>
 <p><a href="https://tablericons.com/" target="_blank" rel="noreferrer">Tabler Icons</a></p>
+<p><a href="https://github.com/jmnote/z-icons" target="_blank" rel="noreferrer">z-icons</a></p>
+
 <h3>JQuery Quick API Reference</h3>
 <p><a href="https://oscarotero.com/jquery/" target="_blank" rel="noreferrer">JQuery</a></p>
 <h3>Images in the cloud</h3>
 <p><a href="https://imgur.com/" target="_blank" rel="noreferrer">Imgur</a></p>
+<p><a href="https://github.com/jmnote/z-icons" target="_blank" rel="noreferrer">z-icons</a></p>
+<p><a href="https://octodex.github.com/" target="_blank" rel="noreferrer">Octodex</a></p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
