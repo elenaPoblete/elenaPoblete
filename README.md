@@ -60,7 +60,7 @@
 </table>      
 
 ## Suggested Pages
-<h3>Label platform</h3>
+<h3>Label Platform</h3>
 <p><a href="https://shields.io/" target="_blank">Shields</a></p>
 <p><a href="https://badgen.net/" target="_blank">Badgen</a></p>
 <h3>Tabler Icons</h3>
@@ -74,7 +74,7 @@
 <p><a href="https://github.com/jmnote/z-icons" target="_blank">z-icons</a></p>
 <p><a href="https://octodex.github.com/" target="_blank">Octodex</a></p>
 
-<h3>Shipping Service</h3> 
+<h3>Service Messaging OnLine</h3> 
 <p><a href="https://discord.com/" target="_blank">Discord</a></p>
 
 ## ⚙️ &nbsp;GitHub Analytics
