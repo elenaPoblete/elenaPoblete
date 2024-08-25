@@ -3,7 +3,6 @@
 </div>
 <img src="https://i.imgur.com/HByYetH.jpg">
 
-
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/elenaPoblete)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
@@ -11,7 +10,6 @@
 - ⭐ Github Star ⭐ 
 - 📫 How to reach me **elena.poblete@gmail.com**
 - 🌱 I’m currently learning **Laravel**
-<br>
 
 
 ## Languages And Tools
@@ -42,19 +40,22 @@
     <h3 align="center">PostgreSQL</h3>
     <div align="center">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>    </div>                                                                                      
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>    
+    </div>
 </td> 
 <td width="20%">
     <h3 align="center">Bootstrap</h3>
     <div align="center">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>    </div>                                                                                      
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>    
+    </div>                                                                                      
 </td> 
 <td width="20%">
     <h3 align="center">PHP</h3>
     <div align="center">
         <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="bootstrap" width="40" height="40"/> </a>    </div>                                                                                      
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="bootstrap" width="40" height="40"/> </a>    
+    </div>                                                                                      
 </td> 
 </table>      
 
