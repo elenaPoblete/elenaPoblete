@@ -65,13 +65,14 @@
 <p><a href="https://badgen.net/" target="_blank">Badgen</a></p>
 <h3>Tabler Icons</h3>
 <p><a href="https://tablericons.com/" target="_blank">Tabler Icons</a></p>
-<p><a href="https://github.com/jmnote/z-icons" target="_blank">z-icons</a></p>
+<p><a href="https://github.com/jmnote/z-icons" target="_blank">Z-icons</a></p>
+<p><a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank">Emoji</a></p>
+
 
 <h3>JQuery Quick API Reference</h3>
 <p><a href="https://oscarotero.com/jquery/" target="_blank">JQuery</a></p>
-<h3>Images in the cloud</h3>
+<h3>Images in the Cloud</h3>
 <p><a href="https://imgur.com/" target="_blank">Imgur</a></p>
-<p><a href="https://github.com/jmnote/z-icons" target="_blank">z-icons</a></p>
 <p><a href="https://octodex.github.com/" target="_blank">Octodex</a></p>
 
 <h3>Service Messaging OnLine</h3> 
