@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="#">Elena Poblete</a> 👋</h1>
 </div>
-<a href="https://github.com/elenaPoblete" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/HByYetH.jpg"></a>
-
+<!-- <a href="https://github.com/elenaPoblete" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/HByYetH.jpg"></a> -->
+<a href="https://github.com/elenaPoblete" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/8JbvdsV.png"></a>
+https://imgur.com/NnoPiLd
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/elenaPoblete)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
