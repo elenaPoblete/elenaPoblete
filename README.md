@@ -62,6 +62,7 @@
 
 ## Suggested Pages
 <h3>Label Platform</h3>
+<p><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Rahuldkjain</a></p>
 <p><a href="https://shields.io/" target="_blank">Shields</a></p>
 <p><a href="https://badgen.net/" target="_blank">Badgen</a></p>
 <h3>Tabler Icons</h3>
