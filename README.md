@@ -80,6 +80,10 @@
 <h3>Service Messaging OnLine</h3> 
 <p><a href="https://discord.com/" target="_blank">Discord</a></p>
 
+<h3>Work Wall</h3> 
+<p><a href="https://padlet.com/" target="_blank">Discord</a></p>
+
+
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/elenaPoblete">
