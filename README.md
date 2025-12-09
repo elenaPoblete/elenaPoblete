@@ -24,6 +24,13 @@
 </div>                                                                                          
 </td>  
 <td width="20%">
+<h3 align="center">Python</h3>
+<div align="center">
+    <a href="www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="javascript" width="40" height="40"/> </a>
+</div>                                                                                          
+</td>
+<td width="20%">
     <h3 align="center">Docker</h3>
     <div align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
